@@ -1,4 +1,4 @@
-# Olá, meu nome é Rose Duarte! 👋
+# Olá, meu nome é Roselena Duarte! 👋
 
 Sou estudante de Engenharia de Software apaixonada pelo Desenvolvimento Frontend. Sempre buscando aprimorar minhas habilidades e contribuir para projetos inovadores.
 
